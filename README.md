@@ -34,3 +34,5 @@ Pós-graduada em Engenharia de software com enfâse em analista de qualidade e t
 
 
 Aqui é só um modelo para te dar um norte, mas poderá colocar mais tópicos e informação. Deixe sua imaginação fluir :)
+
+Link do meu post no blog para entender como criar: https://eloisapotrich.medium.com/portf%C3%B3lio-de-um-testador-fcc61c990108
